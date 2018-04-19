@@ -42,3 +42,4 @@ you're stuck, here's me walking you through how this works._
 * [h1-h6 Tags](https://www.w3schools.com/tags/tag_hn.asp)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/first-html-tag-lab'>First HTML Tag</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>KWK-T2 Your First HTML Tag</p>
